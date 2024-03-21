@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Visualizador", "Visualizador\Visualizador.csproj", "{FBB97B0D-ABFF-477C-8961-BB400E16E547}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EFD08C1B-DA8D-41F7-BDD8-3D77E4A89C90}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBB97B0D-ABFF-477C-8961-BB400E16E547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB97B0D-ABFF-477C-8961-BB400E16E547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB97B0D-ABFF-477C-8961-BB400E16E547}.Debug|x64.ActiveCfg = Debug|x64
+		{FBB97B0D-ABFF-477C-8961-BB400E16E547}.Debug|x64.Build.0 = Debug|x64
+		{FBB97B0D-ABFF-477C-8961-BB400E16E547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB97B0D-ABFF-477C-8961-BB400E16E547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBB97B0D-ABFF-477C-8961-BB400E16E547}.Release|x64.ActiveCfg = Release|x64
+		{FBB97B0D-ABFF-477C-8961-BB400E16E547}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DADE0DC6-CA2F-4187-85A2-948BBB52E6D4}
+	EndGlobalSection
+EndGlobal
